@@ -74,7 +74,7 @@ def render_evaluation_ui():
     st.subheader("2. Select Evaluation Method(s)")
     eval_col1, eval_col2 = st.columns(2)
     run_ragas = eval_col1.button("🚀 Run RAGAS Evaluation")
-    run_rag_eval = eval_col2.button("📐 Run RAG Evaluator Evaluation")
+    run_rag_eval = eval_col2.button("📐❌(Do not use in prod) Run RAG Evaluator Evaluation")
 
     # ---------- RAGAS Evaluation ---------- #
     if run_ragas:
