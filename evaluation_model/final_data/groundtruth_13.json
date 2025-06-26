@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which crops are listed as targets for Abamectin-based pesticides in the document?",
+    "ground_truth": "Abamectin-based pesticides target nhện đỏ (red spider mites) on quýt (mandarin oranges) and cam (oranges); sâu cuốn lá (leaf rollers) on lúa (rice); bọ cánh tơ (thrips) on chè (tea); sâu đục thân (stem borers) on lúa; bọ trĩ (thrips) on dưa hấu (watermelon); sâu vẽ bùa (leaf miners) on cà chua (tomatoes); and sâu tơ (diamondback moths) on cải bắp (cabbage).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What are the different formulations of Abakill and their respective target pests and crops?",
+    "ground_truth": "Abakill 3.6EC targets rầy nâu (brown planthoppers), bọ trĩ (thrips), and sâu cuốn lá (leaf rollers) on lúa (rice); bọ trĩ (thrips) on xoài (mango); and sâu vẽ bùa (leaf miners) on cam (oranges). Abakill 10WP targets sâu cuốn lá (leaf rollers) and rầy nâu (brown planthoppers) on lúa (rice); bọ trĩ (thrips) on dưa hấu (watermelon); and sâu vẽ bùa (leaf miners) on cam (oranges).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What is the composition and target diseases of the product 'Chlorothalonil 500g/l + Rubygold 555SC'?",
+    "ground_truth": "The product 'Chlorothalonil 500g/l + Rubygold 555SC' contains Chlorothalonil at 500g/l and Hexaconazole at 55g/l, and it is used to treat lem lép hạt (grain discoloration) in lúa (rice).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "Which diseases are targeted by the product 'Copper Hydroxide (min Cu 57.3%)' in its various formulations, and what are the specific crops affected?",
+    "ground_truth": "Copper Hydroxide (min Cu 57.3%) is used in multiple formulations: Ajily 77WP targets rỉ sắt (rust) in cà phê (coffee); Champion 37.5SC targets đốm rong (algae spot) and chết chậm (slow death) in hồ tiêu (pepper), and tảo đỏ (red algae) in cà phê and hồ tiêu; Champion 57.6DP targets rụng quả (fruit drop) and tảo đỏ in cà phê; and Champion 77WP targets nấm hồng (pink fungus) in cà phê.",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What is the active ingredient and concentration in Cruiser® Plus 312.5FS used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice, and what other crops does it target?",
+    "ground_truth": "Cruiser® Plus 312.5FS contains Thiamethoxam 262.5g/l, Difenoconazole 25g/l, and Fludioxonil 25g/l. It is used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice. It also targets corn for gray worm control, soybean for damping-off disease, and peanut for seedling blight.",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-duoc-phep-su-dung-tai-VN.pdf"
+  }
+]

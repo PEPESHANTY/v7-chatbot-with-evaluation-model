@@ -1,0 +1,113 @@
+BLEU,ROUGE-1,BERT P,BERT R,BERT F1,Perplexity,Diversity,Racial Bias,TT,user_input,response,reference
+1.3084228480349218,0.41290322580645167,0.6264527440071106,0.7247534394264221,0.6720274090766907,11.06774616241455,0.8644859813084113,0.5094401836395264,1,Which crops are listed as targets for Abamectin-based pesticides in the document?,"The document lists several crops as targets for Abamectin-based pesticides, specifically for the control of various pests. Here are the key crops mentioned along with their associated pests:
+
+1. **Rice (Lúa)**:
+   - Pests: Sâu cuốn lá (Leaf folder), Nhện gié (Rice spider mite), Rầy nâu (Brown planthopper), Sâu đục bẹ (Stem borer).
+
+2. **Cabbage (Bắp cải)**:
+   - Pests: Sâu tơ (Cabbage caterpillar), Sâu xanh bướm trắng (Diamondback moth).
+
+3. **Tea (Chè)**:
+   - Pests: Nhện đỏ (Red spider mite), Bọ trĩ (Thrips).
+
+4. **Peppers (Ớt)**:
+   - Pests: Nhện đỏ (Red spider mite), Sâu vẽ bùa (Leaf miner).
+
+5. **Tomatoes (Cà chua)**:
+   - Pests: Dòi đục lá (Leaf miner).
+
+6. **Citrus (Cam, Quýt)**:
+   - Pests: Nhện đỏ (Red spider mite), Sâu vẽ bùa (Leaf miner).
+
+7. **Vegetables (Rau)**:
+   - Pests: Various pests including Sâu tơ (Caterpillars) and Bọ trĩ (Thrips).
+
+8. **Other crops**:
+   - Various other crops such as **Vải (Lychee)**, **Đậu tương (Soybean)**, **Lạc (Peanut)**, and **Bông vải (Cotton)** are also mentioned with specific pests targeted.
+
+The use of Abamectin is aimed at controlling a wide range of pests that affect these crops, thereby helping to improve yield and quality. It is important to follow the recommended application rates and safety guidelines when using these pesticides to ensure effective pest management and minimize environmental impact.",Abamectin-based pesticides target nhện đỏ (red spider mites) on quýt (mandarin oranges) and cam (oranges); sâu cuốn lá (leaf rollers) on lúa (rice); bọ cánh tơ (thrips) on chè (tea); sâu đục thân (stem borers) on lúa; bọ trĩ (thrips) on dưa hấu (watermelon); sâu vẽ bùa (leaf miners) on cà chua (tomatoes); and sâu tơ (diamondback moths) on cải bắp (cabbage).
+2.007769414208834,0.45238095238095244,0.639173150062561,0.7597337961196899,0.6942583918571472,12.717026710510254,0.8538011695906432,0.49306783080101013,2,What are the different formulations of Abakill and their respective target pests and crops?,"Abakill is a pesticide formulation that contains Abamectin as its active ingredient. It is available in different formulations, each targeting specific pests and crops. Here are the details regarding the formulations of Abakill and their respective targets:
+
+### Formulations of Abakill:
+1. **Abakill 3.6EC**
+   - **Target Pests**:
+     - Rầy nâu (Brown planthopper)
+     - Bọ trĩ (Thrips)
+     - Sâu cuốn lá (Leaf folder)
+   - **Target Crops**:
+     - Lúa (Rice)
+     - Xoài (Mango)
+     - Cam (Citrus)
+
+2. **Abakill 10WP**
+   - **Target Pests**:
+     - Sâu cuốn lá (Leaf folder)
+     - Rầy nâu (Brown planthopper)
+   - **Target Crops**:
+     - Lúa (Rice)
+     - Dưa hấu (Watermelon)
+     - Cam (Citrus)
+
+### Summary
+Abakill formulations are designed to effectively manage pest populations in rice and other crops, particularly targeting the brown planthopper, thrips, and leaf folder. When using these formulations, it is crucial to adhere to the recommended application rates and safety guidelines to ensure effective pest control while minimizing environmental impact. Always consult local agricultural extension services or product labels for specific usage instructions and safety precautions.","Abakill 3.6EC targets rầy nâu (brown planthoppers), bọ trĩ (thrips), and sâu cuốn lá (leaf rollers) on lúa (rice); bọ trĩ (thrips) on xoài (mango); and sâu vẽ bùa (leaf miners) on cam (oranges). Abakill 10WP targets sâu cuốn lá (leaf rollers) and rầy nâu (brown planthoppers) on lúa (rice); bọ trĩ (thrips) on dưa hấu (watermelon); and sâu vẽ bùa (leaf miners) on cam (oranges)."
+1.642068666818518,0.2577319587628866,0.6134609580039978,0.7466158866882324,0.6735203266143799,25.38543701171875,0.9490445859872612,0.4898490309715271,3,What is the composition and target diseases of the product 'Chlorothalonil 500g/l + Rubygold 555SC'?,"The product **Rubygold 555SC** contains the active ingredient **Chlorothalonil** at a concentration of **500g/l**. This fungicide is widely used in agriculture for its effectiveness against a variety of fungal diseases.
+
+### Target Diseases:
+Rubygold 555SC is primarily used to control the following diseases:
+
+1. **Lem lép hạt (Grain discolouration)** in rice.
+2. **Rỉ sắt (Rust)** in various crops, including soybeans and coffee.
+3. **Khô vằn (Leaf blight)** in rice and other crops.
+4. **Thán thư (Anthracnose)** in various fruits and vegetables.
+
+### Application:
+When using Rubygold 555SC, it is essential to follow the recommended application rates and safety guidelines provided on the product label. This ensures effective disease management while minimizing potential risks to the environment and human health.
+
+### Summary:
+Rubygold 555SC, with its active ingredient Chlorothalonil, is an effective solution for managing several significant fungal diseases in rice and other crops. Proper usage according to guidelines will help in achieving optimal results in disease control.","The product 'Chlorothalonil 500g/l + Rubygold 555SC' contains Chlorothalonil at 500g/l and Hexaconazole at 55g/l, and it is used to treat lem lép hạt (grain discoloration) in lúa (rice)."
+3.133034162191891,0.22857142857142854,0.5959658622741699,0.6879986524581909,0.6386838555335999,17.122703552246094,0.9440298507462687,0.5011829137802124,4,"Which diseases are targeted by the product 'Copper Hydroxide (min Cu 57.3%)' in its various formulations, and what are the specific crops affected?","The product **Copper Hydroxide (min Cu 57.3%)** is a fungicide used in various formulations to manage a range of fungal diseases across different crops. Here are the key diseases targeted by this product and the specific crops affected:
+
+### Target Diseases:
+1. **Bạc lá (Leaf blight)**: This disease affects various crops, particularly rice and some vegetables.
+2. **Rỉ sắt (Rust)**: Commonly found in crops like coffee and some legumes, this disease can significantly impact yield and quality.
+3. **Thán thư (Anthracnose)**: This disease affects a variety of fruits and vegetables, including coffee and certain legumes.
+4. **Mốc sương (Downy mildew)**: Affects crops such as potatoes and cucumbers, leading to reduced yield and quality.
+5. **Đốm đen (Black spot)**: Primarily affects roses and other ornamental plants, causing aesthetic and economic losses.
+
+### Specific Crops Affected:
+- **Rice (Lúa)**: Targeted for diseases like leaf blight and rust.
+- **Potatoes (Khoai tây)**: Affected by downy mildew and black spot.
+- **Coffee (Cà phê)**: Targeted for rust and anthracnose.
+- **Legumes (Đậu)**: Various diseases including anthracnose and rust.
+- **Ornamental plants (Hoa)**: Such as roses, affected by black spot and other fungal diseases.
+
+### Application Guidelines:
+When using Copper Hydroxide, it is crucial to follow the recommended application rates and safety guidelines provided on the product label. This ensures effective disease management while minimizing potential risks to the environment and human health.
+
+### Summary:
+Copper Hydroxide (min Cu 57.3%) is effective against several significant fungal diseases affecting crops like rice, potatoes, coffee, and various legumes and ornamental plants. Proper usage according to guidelines will help in achieving optimal results in disease control.","Copper Hydroxide (min Cu 57.3%) is used in multiple formulations: Ajily 77WP targets rỉ sắt (rust) in cà phê (coffee); Champion 37.5SC targets đốm rong (algae spot) and chết chậm (slow death) in hồ tiêu (pepper), and tảo đỏ (red algae) in cà phê and hồ tiêu; Champion 57.6DP targets rụng quả (fruit drop) and tảo đỏ in cà phê; and Champion 77WP targets nấm hồng (pink fungus) in cà phê."
+5.43695701046725,0.26058631921824105,0.6365756392478943,0.7570924758911133,0.6916232109069824,17.501554489135742,0.96484375,0.5084962844848633,5,"What is the active ingredient and concentration in Cruiser® Plus 312.5FS used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice, and what other crops does it target?","**Cruiser® Plus 312.5FS** is a seed treatment product that contains two active ingredients:
+
+1. **Thiamethoxam**: 312.5 g/l
+2. **Fipronil**: 25 g/l
+
+### Target Pests and Diseases:
+Cruiser® Plus is primarily used for the control of the following pests and diseases in rice:
+
+- **Thrips**: These pests can cause significant damage to rice plants, particularly during the seedling stage.
+- **Brown Planthoppers (BPH)**: Known for transmitting rice dwarf disease, BPH can severely affect rice yield.
+- **White-Backed Planthoppers (WBPH)**: Similar to BPH, they also transmit diseases and can lead to yield loss.
+- **Rice Dwarf Disease**: This disease is caused by viruses transmitted by planthoppers, leading to stunted growth and reduced yields.
+
+### Other Crops Targeted:
+In addition to rice, Cruiser® Plus 312.5FS is effective against pests in several other crops, including:
+
+- **Corn (Maize)**: For controlling various pests that affect corn crops.
+- **Soybeans**: Effective against pests that can impact soybean yield and quality.
+- **Cotton**: Used to manage pest populations in cotton fields.
+
+### Application Guidelines:
+When using Cruiser® Plus, it is essential to follow the recommended application rates and safety guidelines provided on the product label. This ensures effective pest control while minimizing potential risks to the environment and human health.
+
+### Summary:
+Cruiser® Plus 312.5FS, with its active ingredients Thiamethoxam and Fipronil, is a potent seed treatment for managing thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice, as well as targeting pests in corn, soybeans, and cotton. Proper usage according to guidelines will help achieve optimal results in pest management.","Cruiser® Plus 312.5FS contains Thiamethoxam 262.5g/l, Difenoconazole 25g/l, and Fludioxonil 25g/l. It is used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice. It also targets corn for gray worm control, soybean for damping-off disease, and peanut for seedling blight."

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the genomic characteristics of the Methylobacterium strain VL1 identified as the causative agent of leaf bleaching in rice in Vietnam?",
+    "ground_truth": "The Methylobacterium strain VL1 has a single chromosome and six plasmids, with a total genome size of 7.05 Mbp and a GC content of 70.5%. It possesses unique genes related to homoserine lactone biosynthesis, distinguishing it from non-pathogenic strains like M. indicum SE2.11T.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "How does the newly developed LAMP assay contribute to the management of the leaf bleaching disease in rice caused by Methylobacterium indicum?",
+    "ground_truth": "The LAMP assay uses unique sequences of the pathogenic Methylobacterium strain VL1 to rapidly and sensitively distinguish between pathogenic and non-pathogenic strains, aiding in the early detection and control of the disease.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the chlorophyll and carotenoid contents of rice seedlings evaluated at 5 and 7 DAI, and how do they compare statistically?",
+    "ground_truth": "The chlorophyll and carotenoid contents of rice seedlings were evaluated at 5 and 7 DAI. Values represent the mean±SD, and means followed by different letters are significantly different at the 0.05 level by Tukey’s test with 3 replications.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What are the key genomic differences between Methylobacterium indicum strain VL1 and its close relatives SE2.11T and SE3.6, particularly in terms of genome structure and gene content?",
+    "ground_truth": "The genome of VL1 comprised a chromosome (6,554,591 bp) and 6 plasmids (153,568, 128,167, 113,981, 36,553, 34,345, and 31,542 bp), whereas the genomes of SE2.11T and SE3.6 consisted of a single chromosome. VL1 has 6,599 CDSs, 36 rRNA genes, and 114 tRNA genes, compared to SE2.11T (5,645 CDSs, 10 rRNA genes, 54 tRNA genes) and SE3.6 (5,677 CDSs, 5 rRNA genes, 64 tRNA genes).",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular, and what are their common names?",
+    "ground_truth": "The banned heavy metal compounds listed as fungicides are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the categories of pesticides banned in Vietnam according to the 2024 circular, and can you name one example from each category?",
+    "ground_truth": "The categories are Insecticides and wood preservatives (e.g., Aldrin), Fungicides (e.g., Arsenic (As)), Rodenticides (e.g., Talium compound), and Herbicides (e.g., 2,4,5-T).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as banned fungicides in the document, and what are their common names?",
+    "ground_truth": "The heavy metals listed as banned fungicides are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned herbicides and rodenticides mentioned in the document?",
+    "ground_truth": "The banned herbicide mentioned is 2,4,5-T, and the banned rodenticide is Talium compound.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

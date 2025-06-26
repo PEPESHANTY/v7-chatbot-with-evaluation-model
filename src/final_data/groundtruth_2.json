@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which heavy metal compounds are listed as banned substances in the fungicides category of the 2024 Vietnamese pesticide regulation?",
+    "ground_truth": "The banned heavy metal compounds in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned organochlorine insecticides listed in the 2024 Vietnamese pesticide regulation?",
+    "ground_truth": "The banned organochlorine insecticides include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as fungicides in the document?",
+    "ground_truth": "Arsenic (As) and Mercury (Hg) are listed as fungicides.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the herbicide listed in the document?",
+    "ground_truth": "The common name of the herbicide listed is 2,4,5-T.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular on prohibited pesticides?",
+    "ground_truth": "The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se) as heavy metal compounds.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What are the specific categories of banned plant protection substances listed in the document, and can you provide an example of a banned substance from each category?",
+    "ground_truth": "The document lists four categories of banned plant protection substances: pesticides and forest product preservatives (e.g., Aldrin), disease control agents (e.g., Arsenic (As)), rodenticides (e.g., Talium compound), and herbicides (e.g., 2,4,5-T).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What is the legal basis for the prohibition of these plant protection substances in Vietnam, as mentioned in the document?",
+    "ground_truth": "The prohibition is based on the Circular No. /2024/TT-BNNPTNT issued by the Minister of Agriculture and Rural Development, which accompanies the list of banned plant protection substances.",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What are the specific categories of banned plant protection substances listed in the document, and can you provide an example of a banned substance from each category?",
+    "ground_truth": "The document lists banned plant protection substances in several categories: insecticides and wood preservatives (e.g., Aldrin), fungicides (e.g., Arsenic (As)), rodenticides (e.g., Talium compound), and herbicides (e.g., 2,4,5-T).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "Which heavy metals are explicitly mentioned as banned compounds in the fungicides category, and what are their chemical symbols?",
+    "ground_truth": "The banned heavy metals in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se), with their respective chemical symbols provided in parentheses.",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What are the specific categories of banned plant protection substances listed in the document, and can you provide an example of a banned substance from each category along with its common name?",
+    "ground_truth": "The document lists banned plant protection substances in several categories: insecticides and wood preservatives (e.g., Aldrin), fungicides (e.g., Arsenic (As)), rodenticides (e.g., Talium compound), and herbicides (e.g., 2,4,5-T).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  }
+]

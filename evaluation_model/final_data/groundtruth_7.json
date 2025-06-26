@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the causative agent of the new leaf bleaching disease in rice identified in the Mekong Delta region of Vietnam?",
+    "ground_truth": "The causative agent is Methylobacterium indicum bacteria, as confirmed using molecular biology approaches.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What are the genomic characteristics of the pathogenic Methylobacterium strain VL1?",
+    "ground_truth": "The pathogenic Methylobacterium strain VL1 comprises a single chromosome and six plasmids, with a total size of 7.05 Mbp and GC content of 70.5%.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the chlorophyll and carotenoid contents of rice seedlings evaluated at, and what were the fresh weights of control plants versus inoculated plants?",
+    "ground_truth": "The chlorophyll and carotenoid contents of rice seedlings were evaluated at 5 and 7 DAI. The fresh weight of control plants was 0.14±0.017 g, while those inoculated with 105 CFU mL–1 and 107 CFU mL–1 were 0.071±0.01 g and 0.065±0.01 g, respectively.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the in silico DDH and ANI values between strain VL1 and M. indicum strains SE2.11T and SE3.6, and how do they compare to the thresholds for prokaryotic species delineation?",
+    "ground_truth": "The in silico DDH value of VL1 with M. indicum strains SE2.11T and SE3.6 was 86.0%, which is higher than the 70% DDH threshold for prokaryotic species delineation. The ANI values for VL1 versus strains SE2.11T and SE3.6 were 98.19% and 98.18%, respectively, both higher than the 95% ANI threshold for prokaryotic species delineation.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular?",
+    "ground_truth": "Arsenic (As), Mercury (Hg), and Selenium (Se) are banned fungicides listed in the document.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the first three banned insecticides and wood preservatives listed in the document?",
+    "ground_truth": "The first three banned insecticides and wood preservatives are Aldrin, BHC (Lindane), and Cadmium compound (Cd).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which fungicides containing heavy metals are banned for use in Vietnam?",
+    "ground_truth": "Arsenic (As), Mercury (Hg), and Selenium (Se) are banned fungicides containing heavy metals.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the banned herbicides and rodenticides listed in the document?",
+    "ground_truth": "The banned herbicides include 2,4,5-T, and the banned rodenticides include Talium compound.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

@@ -1,0 +1,49 @@
+BLEU,ROUGE-1,BERT P,BERT R,BERT F1,Perplexity,Diversity,Racial Bias,TT,user_input,response,reference
+8.58898688035115,0.33333333333333337,0.6636896133422852,0.8378714323043823,0.7406778931617737,19.6370849609375,0.9882352941176471,0.48765745759010315,1,Which heavy metal compounds are listed as banned substances in the fungicides category of the 2024 Vietnamese pesticide regulation?,"In the fungicides category of the 2024 Vietnamese pesticide regulation, the following heavy metal compounds are listed as banned substances:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These substances are prohibited due to their toxic effects on human health and the environment. The use of heavy metals in agriculture can lead to soil and water contamination, posing risks to food safety and ecosystem health. It is essential for farmers to adhere to these regulations to promote sustainable agricultural practices and protect public health.","The banned heavy metal compounds in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se)."
+1.1261311494020176,0.2608695652173913,0.6598498821258545,0.8253422975540161,0.7333758473396301,16.548904418945312,0.9791666666666666,0.5119922161102295,2,What are the common names of the banned organochlorine insecticides listed in the 2024 Vietnamese pesticide regulation?,"In the 2024 Vietnamese pesticide regulation, the following organochlorine insecticides are listed as banned substances:
+
+1. **Aldrin**
+2. **BHC (Benzene Hexachloride) / Lindane**
+3. **Dieldrin**
+4. **DDT (Dichloro-Diphenyl-Trichloroethane)**
+5. **Endosulfan**
+6. **Chlordane**
+7. **Heptachlor**
+8. **Isodrin**
+9. **Endrin**
+
+These organochlorine compounds are prohibited due to their persistence in the environment, potential to bioaccumulate in the food chain, and associated health risks to humans and wildlife. The use of such substances can lead to significant ecological damage and pose serious health hazards, which is why adherence to these regulations is crucial for sustainable agricultural practices in Vietnam.","The banned organochlorine insecticides include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene."
+5.208472146410212,0.1592920353982301,0.6279340982437134,0.8469155430793762,0.7211678624153137,17.986675262451172,0.9423076923076923,0.4947530925273895,3,Which heavy metals are listed as fungicides in the document?,"In the 2024 Vietnamese pesticide regulation, the following heavy metals are listed as fungicides:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These heavy metals are categorized as fungicides due to their historical use in controlling fungal diseases in crops. However, their inclusion in the banned substances list is primarily due to their toxic effects on human health and the environment. The use of these heavy metals can lead to soil and water contamination, posing significant risks to food safety and ecosystem health. Therefore, it is crucial for farmers to comply with these regulations to promote sustainable agricultural practices and protect public health.",Arsenic (As) and Mercury (Hg) are listed as fungicides.
+0.36283657179141754,0.18333333333333332,0.5430166721343994,0.7599411010742188,0.6334214210510254,19.911466598510742,0.9795918367346939,0.5038923025131226,4,What is the common name of the herbicide listed in the document?,"In the 2024 Vietnamese pesticide regulation, the following common names of herbicides are listed:
+
+1. **2,4-Dichlorophenoxyacetic acid (2,4-D)**
+2. **Glyphosate**
+3. **Paraquat**
+4. **Atrazine**
+5. **Pendimethalin**
+6. **Fluazifop-P-butyl**
+7. **Imazapic**
+8. **Haloxyfop-R-methyl**
+9. **Pretilachlor**
+10. **Fenoxaprop-P-ethyl**
+
+These herbicides are used for controlling various types of weeds in rice and other crops. However, it is essential to note that some herbicides may have specific restrictions or guidelines for use to ensure environmental safety and compliance with agricultural regulations. Always refer to the latest guidelines and recommendations from the Ministry of Agriculture and Rural Development for safe and effective use.","The common name of the herbicide listed is 2,4,5-T."
+8.365838241599585,0.3366336633663366,0.6639110445976257,0.8239583373069763,0.7353267073631287,21.21770668029785,0.9876543209876543,0.4973568320274353,5,Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular on prohibited pesticides?,"In Vietnam's 2024 circular on prohibited pesticides, the following heavy metal compounds are listed as banned fungicides:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These heavy metals are prohibited due to their toxic effects on human health and the environment. Their use in agriculture can lead to soil and water contamination, posing significant risks to food safety and ecosystem health. It is crucial for farmers to comply with these regulations to promote sustainable agricultural practices and protect public health.","The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se) as heavy metal compounds."

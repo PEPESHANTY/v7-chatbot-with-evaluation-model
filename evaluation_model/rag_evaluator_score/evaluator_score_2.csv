@@ -1,0 +1,125 @@
+BLEU,ROUGE-1,BERT P,BERT R,BERT F1,Perplexity,Diversity,Racial Bias,TT,user_input,response,reference
+1.5603757444062272,0.47058823529411764,0.6564573645591736,0.7378219366073608,0.6947656273841858,14.149481773376465,0.907103825136612,0.5087339878082275,1,Which crops are listed as targets for Abamectin-based pesticides in the document?,"The document lists several crops as targets for Abamectin-based pesticides, specifically for various pests. Here are the key crops mentioned along with their associated pests:
+
+1. **Rice (Lúa)**:
+   - Sâu cuốn lá (Leaf folder)
+   - Nhện gié (Rice spider mite)
+   - Rầy nâu (Brown planthopper)
+
+2. **Cabbage (Bắp cải)**:
+   - Sâu tơ (Cabbage caterpillar)
+   - Sâu xanh bướm trắng (Diamondback moth)
+
+3. **Tomato (Cà chua)**:
+   - Sâu xanh (Green caterpillar)
+   - Bọ trĩ (Thrips)
+
+4. **Chili (Ớt)**:
+   - Sâu cuốn lá (Leaf folder)
+
+5. **Peanut (Lạc)**:
+   - Sâu khoang (Pod borer)
+
+6. **Tea (Chè)**:
+   - Nhện đỏ (Red spider mite)
+
+7. **Cotton (Bông)**:
+   - Sâu vẽ bùa (Leaf miner)
+
+8. **Other crops**:
+   - Bắp cải (Cabbage)
+   - Đậu tương (Soybean)
+   - Vải (Lychee)
+   - Cam (Orange)
+   - Dưa hấu (Watermelon)
+   - Dưa chuột (Cucumber)
+   - Rau bó xôi (Spinach)
+   - Cà phê (Coffee)
+
+The document indicates that Abamectin is effective against a variety of pests affecting these crops, making it a versatile option for pest management in rice and other agricultural systems. Always ensure to follow local regulations and guidelines when using pesticides.",Abamectin-based pesticides target nhện đỏ (red spider mites) on quýt (mandarin oranges) and cam (oranges); sâu cuốn lá (leaf rollers) on lúa (rice); bọ cánh tơ (thrips) on chè (tea); sâu đục thân (stem borers) on lúa; bọ trĩ (thrips) on dưa hấu (watermelon); sâu vẽ bùa (leaf miners) on cà chua (tomatoes); and sâu tơ (diamondback moths) on cải bắp (cabbage).
+1.6243403521207638,0.23720930232558138,0.5996249914169312,0.6920996904373169,0.6425521969795227,10.428657531738281,0.7811158798283262,0.49410581588745117,2,What are the different formulations of Abakill and their respective target pests and crops?,"Abakill là một trong những sản phẩm chứa hoạt chất Abamectin, được sử dụng để kiểm soát nhiều loại sâu bệnh trên các loại cây trồng khác nhau. Dưới đây là các dạng chế phẩm khác nhau của Abakill cùng với các loại sâu bệnh và cây trồng tương ứng:
+
+### 1. **Abakill 3.6EC**
+   - **Đối tượng phòng trừ**:
+     - **Sâu cuốn lá** (Lúa)
+     - **Rầy nâu** (Lúa)
+     - **Bọ trĩ** (Lúa)
+     - **Bọ trĩ** (Xoài)
+     - **Sâu vẽ bùa** (Cam)
+
+### 2. **Abakill 10WP**
+   - **Đối tượng phòng trừ**:
+     - **Sâu cuốn lá** (Lúa)
+     - **Rầy nâu** (Lúa)
+     - **Bọ trĩ** (Dưa hấu)
+     - **Sâu vẽ bùa** (Cam)
+
+### Tóm tắt
+Abakill có hai dạng chế phẩm chính là **3.6EC** và **10WP**, với khả năng kiểm soát nhiều loại sâu bệnh như sâu cuốn lá, rầy nâu, bọ trĩ, và sâu vẽ bùa trên các loại cây trồng như lúa, dưa hấu, và cam. Việc sử dụng Abakill cần tuân thủ đúng hướng dẫn sử dụng và liều lượng để đảm bảo hiệu quả và an toàn cho cây trồng cũng như môi trường. 
+
+### Lưu ý
+Khi sử dụng bất kỳ loại thuốc bảo vệ thực vật nào, bao gồm Abakill, nông dân nên tham khảo ý kiến từ các chuyên gia nông nghiệp hoặc tài liệu hướng dẫn cụ thể để đảm bảo sử dụng an toàn và hiệu quả.","Abakill 3.6EC targets rầy nâu (brown planthoppers), bọ trĩ (thrips), and sâu cuốn lá (leaf rollers) on lúa (rice); bọ trĩ (thrips) on xoài (mango); and sâu vẽ bùa (leaf miners) on cam (oranges). Abakill 10WP targets sâu cuốn lá (leaf rollers) and rầy nâu (brown planthoppers) on lúa (rice); bọ trĩ (thrips) on dưa hấu (watermelon); and sâu vẽ bùa (leaf miners) on cam (oranges)."
+0.9328381531398313,0.07925407925407925,0.5665572881698608,0.7204564809799194,0.6343053579330444,13.678991317749023,0.8622047244094488,0.49205923080444336,3,What is the composition and target diseases of the product 'Chlorothalonil 500g/l + Rubygold 555SC'?,"Sản phẩm **Rubygold 555SC** chứa hoạt chất **Chlorothalonil** với nồng độ 500g/l. Đây là một loại thuốc bảo vệ thực vật được sử dụng rộng rãi trong nông nghiệp để kiểm soát nhiều loại bệnh hại trên cây trồng. Dưới đây là thông tin chi tiết về thành phần và các bệnh mục tiêu của sản phẩm này:
+
+### Thành phần
+- **Hoạt chất**: Chlorothalonil 500g/l
+- **Công thức**: Rubygold 555SC
+
+### Bệnh mục tiêu
+Rubygold 555SC có hiệu quả trong việc kiểm soát các bệnh sau:
+1. **Lem lép hạt** (bệnh do nấm gây ra trên lúa)
+2. **Đạo ôn** (bệnh do nấm Magnaporthe oryzae gây ra, ảnh hưởng đến lúa)
+3. **Thán thư** (bệnh do nấm Colletotrichum gây ra, có thể ảnh hưởng đến nhiều loại cây trồng như cà chua, ớt, và xoài)
+
+### Lưu ý khi sử dụng
+- **Liều lượng**: Nông dân cần tuân thủ đúng liều lượng và hướng dẫn sử dụng được ghi trên nhãn sản phẩm để đảm bảo hiệu quả và an toàn cho cây trồng cũng như môi trường.
+- **Thời điểm phun**: Nên phun thuốc khi có dấu hiệu đầu tiên của bệnh hoặc theo lịch trình phòng ngừa để đạt hiệu quả tốt nhất.
+
+### Kết luận
+Rubygold 555SC là một sản phẩm hiệu quả trong việc kiểm soát các bệnh hại phổ biến trên cây lúa và một số loại cây trồng khác. Việc sử dụng đúng cách sẽ giúp bảo vệ mùa màng và nâng cao năng suất nông nghiệp.","The product 'Chlorothalonil 500g/l + Rubygold 555SC' contains Chlorothalonil at 500g/l and Hexaconazole at 55g/l, and it is used to treat lem lép hạt (grain discoloration) in lúa (rice)."
+1.9568417365154653,0.12199036918138043,0.5648103952407837,0.6527330875396729,0.6055971384048462,9.463359832763672,0.7724719101123596,0.4904398024082184,4,"Which diseases are targeted by the product 'Copper Hydroxide (min Cu 57.3%)' in its various formulations, and what are the specific crops affected?","Sản phẩm **Copper Hydroxide (min Cu 57.3%)** là một loại thuốc bảo vệ thực vật có hiệu quả trong việc kiểm soát nhiều loại bệnh hại trên các loại cây trồng khác nhau. Dưới đây là thông tin chi tiết về các bệnh mục tiêu và các loại cây trồng cụ thể mà sản phẩm này nhắm đến:
+
+### Bệnh mục tiêu
+1. **Bạc lá**: Đây là một bệnh do nấm gây ra, thường ảnh hưởng đến cây lúa và một số loại cây trồng khác.
+2. **Đốm lá**: Bệnh này có thể do nhiều loại nấm khác nhau gây ra, ảnh hưởng đến nhiều loại cây trồng như đậu tương, cà phê, và hoa màu khác.
+3. **Thán thư**: Bệnh do nấm Colletotrichum gây ra, có thể ảnh hưởng đến nhiều loại cây trồng như cà chua, ớt, và điều.
+4. **Sương mai**: Bệnh này thường gặp trên cây khoai tây và một số loại cây trồng khác, gây hại cho lá và củ.
+
+### Các loại cây trồng cụ thể
+- **Lúa**: Bị ảnh hưởng bởi bệnh bạc lá và sương mai.
+- **Khoai tây**: Bị ảnh hưởng bởi bệnh sương mai.
+- **Cà phê**: Bị ảnh hưởng bởi bệnh đốm lá và thán thư.
+- **Đậu tương**: Bị ảnh hưởng bởi bệnh đốm lá.
+- **Cà chua và ớt**: Bị ảnh hưởng bởi bệnh thán thư.
+
+### Lưu ý khi sử dụng
+- **Liều lượng**: Nông dân cần tuân thủ đúng liều lượng và hướng dẫn sử dụng được ghi trên nhãn sản phẩm để đảm bảo hiệu quả và an toàn cho cây trồng cũng như môi trường.
+- **Thời điểm phun**: Nên phun thuốc khi có dấu hiệu đầu tiên của bệnh hoặc theo lịch trình phòng ngừa để đạt hiệu quả tốt nhất.
+
+### Kết luận
+Copper Hydroxide (min Cu 57.3%) là một sản phẩm hiệu quả trong việc kiểm soát các bệnh hại phổ biến trên nhiều loại cây trồng, đặc biệt là lúa, khoai tây, cà phê, và đậu tương. Việc sử dụng đúng cách sẽ giúp bảo vệ mùa màng và nâng cao năng suất nông nghiệp.","Copper Hydroxide (min Cu 57.3%) is used in multiple formulations: Ajily 77WP targets rỉ sắt (rust) in cà phê (coffee); Champion 37.5SC targets đốm rong (algae spot) and chết chậm (slow death) in hồ tiêu (pepper), and tảo đỏ (red algae) in cà phê and hồ tiêu; Champion 57.6DP targets rụng quả (fruit drop) and tảo đỏ in cà phê; and Champion 77WP targets nấm hồng (pink fungus) in cà phê."
+0.7679059595442478,0.0547945205479452,0.6283866167068481,0.7305622100830078,0.6756332516670227,11.180006980895996,0.807843137254902,0.48961129784584045,5,"What is the active ingredient and concentration in Cruiser® Plus 312.5FS used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice, and what other crops does it target?","Sản phẩm **Cruiser® Plus 312.5FS** chứa các hoạt chất sau đây với nồng độ cụ thể:
+
+### Hoạt chất và nồng độ
+- **Thiamethoxam**: 262.5 g/l
+- **Difenoconazole**: 25 g/l
+- **Fludioxonil**: 25 g/l
+
+### Công dụng
+Cruiser® Plus 312.5FS được sử dụng để xử lý hạt nhằm kiểm soát:
+- **Bọ trĩ** (trên lúa)
+- **Rầy nâu** (trên lúa)
+- **Rầy lưng trắng** (trên lúa)
+- **Bệnh lùn lúa** (do virus gây ra)
+
+### Các loại cây trồng khác
+Ngoài việc kiểm soát các loại sâu bệnh trên cây lúa, Cruiser® Plus 312.5FS còn được sử dụng để xử lý hạt cho các loại cây trồng khác như:
+- **Ngô**: Để kiểm soát sâu xám và các loại sâu bệnh khác.
+- **Đậu tương**: Để kiểm soát bệnh lở cổ rễ và các bệnh hại khác.
+
+### Lưu ý khi sử dụng
+- Nông dân cần tuân thủ đúng liều lượng và hướng dẫn sử dụng được ghi trên nhãn sản phẩm để đảm bảo hiệu quả và an toàn cho cây trồng cũng như môi trường.
+- Việc xử lý hạt nên được thực hiện trước khi gieo trồng để đạt hiệu quả tốt nhất trong việc bảo vệ cây trồng khỏi sâu bệnh ngay từ giai đoạn đầu.
+
+### Kết luận
+Cruiser® Plus 312.5FS là một sản phẩm hiệu quả trong việc kiểm soát nhiều loại sâu bệnh và bệnh hại trên cây lúa và một số cây trồng khác, giúp bảo vệ mùa màng và nâng cao năng suất nông nghiệp.","Cruiser® Plus 312.5FS contains Thiamethoxam 262.5g/l, Difenoconazole 25g/l, and Fludioxonil 25g/l. It is used for seed treatment to control thrips, brown planthoppers, white-backed planthoppers, and rice dwarf disease in rice. It also targets corn for gray worm control, soybean for damping-off disease, and peanut for seedling blight."

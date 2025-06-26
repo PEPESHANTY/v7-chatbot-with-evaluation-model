@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are the three types of male sterile lines mentioned in the definition of hybrid rice parental seed, and what are their genetic characteristics?",
+    "ground_truth": "The three types of male sterile lines are: 1) Cytoplasmic Male Sterility (CMS) - genetically determined by cytoplasm, 2) Thermo-sensitive Genetic Male Sterility (TGMS) - nuclear genetic male sterility sensitive to temperature, and 3) Photoperiodic sensitive Genetic Male Sterility (PGMS) - nuclear genetic male sterility sensitive to day length.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What is the key difference between three-line and two-line hybrid rice systems in terms of parental lines used?",
+    "ground_truth": "The three-line system uses a cytoplasmic male sterile line (CMS line A) maintained by a corresponding maintainer line (line B) and crossed with a fertility restorer line (line R). The two-line system uses an environmental-sensitive genetic male sterile line (EGMS) crossed with a fertile paternal line (line P), without requiring a maintainer line.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What are the specific environmental conditions required during the sensitive stage for the EGMS super-elite seed line to ensure self-pollination and seed setting?",
+    "ground_truth": "The EGMS super-elite seed line requires environmental conditions such as temperature or day length during the sensitive stage to ensure self-pollination and seed setting.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What measures can be taken to adjust the flowering time mismatch between the male and female lines in hybrid rice production, and what are the specific details for using water as an adjustment method?",
+    "ground_truth": "To adjust the flowering time mismatch, water can be used by draining the field to slow down the male line if it develops earlier or maintaining a water depth of 15 cm to 20 cm to speed up the male line if it develops later than the female line.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What are the maximum allowable percentages for fertile pollen and seed setting rates in the isolation bag test for the EGMS line in hybrid rice F1 seed production fields?",
+    "ground_truth": "The maximum allowable percentage for fertile pollen in the EGMS line is 0.5% of the total number of seeds, and the maximum allowable percentage for seed setting rate in the isolation bag test is 0.3% of the total number of seeds, as specified in Bảng F.2.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned substances in the Insecticides & Wood Preservatives category?",
+    "ground_truth": "The banned heavy metal compounds in the Insecticides & Wood Preservatives category are Cadmium compound (Cd) and Lead (Pb).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned fungicides that include heavy metals?",
+    "ground_truth": "The banned fungicides that include heavy metals are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which fungicides listed in the document contain heavy metals?",
+    "ground_truth": "The fungicides containing heavy metals are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the herbicide with the chemical designation 2,4,5-T?",
+    "ground_truth": "The common name of the herbicide with the chemical designation 2,4,5-T is listed as '2,4,5-T'.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese agricultural circular?",
+    "ground_truth": "The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the three main groups of weeds found in rice fields, and what specific management practices are recommended to control them?",
+    "ground_truth": "The three main groups of weeds in rice fields are broadleaf weeds, sedges, and grasses. Recommended management practices include using certified rice seeds, thorough soil preparation and leveling, row seeding or machine transplanting, early water application to suppress weeds, hand weeding during 15-18 days after sowing, cutting remaining weed panicles to prevent seed dispersal, preventing weed seed formation on field edges and irrigation channels, and using pre-emergence herbicides like Pretilachor or Butachlor and post-emergence herbicides like Pyrazosulfuron Ethyl or Cyhalofop-butyl.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the key biological and environmental conditions that favor the proliferation of golden apple snails (Pomacea canaliculated) in rice fields, and what integrated management strategies are suggested?",
+    "ground_truth": "Golden apple snails thrive in environments with host plants like duckweed or water hyacinth, excessive nitrogen fertilization, and continuously flooded fields. Integrated management strategies include releasing ducks into fields, manual collection of snails and eggs during land preparation, creating trenches with attractant plants like papaya or cassava leaves, placing stakes to collect egg masses, installing 5mm mesh nets in water channels to block snail entry, and using molluscicides containing Metaldehyde, Niclosamide, or Saponin.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific environmental conditions that favor the development of the rice stem borer (Sâu phao)?",
+    "ground_truth": "The rice stem borer thrives in continuously submerged fields and when young seedlings are transplanted.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the recommended active ingredients for controlling the rice stem borer (Sâu phao) and why should synthetic pyrethroids be avoided?",
+    "ground_truth": "Recommended active ingredients for controlling the rice stem borer include Abamectin, Emamectin benzoate, and Azadirachtin. Synthetic pyrethroids should be avoided to prevent outbreaks of planthoppers.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific symptoms of Rice Grassy Stunt Virus (RGSV) infection in rice plants, and how does it differ from Rice Ragged Stunt Virus (RRSV) infection?",
+    "ground_truth": "Rice Grassy Stunt Virus (RGSV) causes symptoms such as stunted growth, multiple tillers, normal root system, short and narrow leaves that are green-yellow or yellow-orange, and young leaves with rust-colored or red-yellow spots. In contrast, Rice Ragged Stunt Virus (RRSV) leads to stunted plants with dark green leaves, ragged and wavy leaf edges, bumps along the veins, deformed and curled leaf tips, and panicles that fail to emerge properly, resulting in empty grains.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What environmental conditions favor the rapid development of brown planthoppers in rice ecosystems?",
+    "ground_truth": "Thời tiết nóng ẩm: rầy nâu phát triển nhanh",
+    "source": "Tap-1.pdf"
+  },
+  {
+    "question": "What are the main human activities that disrupt the balance of the rice field ecosystem according to the document?",
+    "ground_truth": "Nhiều tác động của con người góp phần làm mất cân bằng hệ sinh thái, quan trọng nhất là sử dụng quá nhiều thuốc trừ sâu và phân bón, đặc biệt là phân đạm.",
+    "source": "Tap-1.pdf"
+  },
+  {
+    "question": "What is the primary use of the organic detoxifying agent mentioned in the document?",
+    "ground_truth": "The organic detoxifying agent is primarily used for reducing toxicity in organic substances.",
+    "source": "Tap-1.pdf"
+  },
+  {
+    "question": "How many types of organic detoxifying agents are referenced in the middle section of the document?",
+    "ground_truth": "The document references two types of organic detoxifying agents, indicated by the numbers 6 and 7.",
+    "source": "Tap-1.pdf"
+  },
+  {
+    "question": "What are the environmental conditions that favor the rapid development of brown planthoppers in rice fields?",
+    "ground_truth": "Thời tiết nóng ẩm: rầy nâu phát triển nhanh",
+    "source": "Tap-1.pdf"
+  }
+]

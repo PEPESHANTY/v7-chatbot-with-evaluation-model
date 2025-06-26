@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What are the genomic characteristics of the Methylobacterium strain VL1 identified as the causative agent of leaf bleaching in rice, and how does it compare to the non-pathogenic strain SE2.11T?",
+    "ground_truth": "The pathogenic Methylobacterium strain VL1 has a genome comprising a single chromosome and six plasmids, with a total size of 7.05 Mbp and a GC content of 70.5%. Genomic features of VL1 were similar to those of the non-pathogenic M. indicum strain SE2.11T, but VL1 possessed additional unique genes, including those related to homoserine lactone biosynthesis.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What detection method was developed to distinguish between pathogenic and non-pathogenic Methylobacterium strains infecting rice plants, and what were its initial evaluation results?",
+    "ground_truth": "A loop-mediated isothermal amplification (LAMP) assay was developed using the unique sequences of VL1 as target sequences for the rapid and simple detection of pathogenic M. indicum strains. The initial evaluation demonstrated that the LAMP assay successfully distinguished between pathogenic and non-pathogenic strains infecting rice plants in a rapid and sensitive manner.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the chlorophyll and carotenoid contents of rice seedlings evaluated at, and what statistical method was used to determine significant differences between the means?",
+    "ground_truth": "The chlorophyll and carotenoid contents of rice seedlings were evaluated at 5 and 7 DAI. Significant differences between the means were determined using Tukey’s test at the 0.05 level with 3 replications.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What are the key genomic differences between Methylobacterium indicum strain VL1 and its close relatives SE2.11T and SE3.6, particularly in terms of genome structure and plasmid content?",
+    "ground_truth": "Methylobacterium indicum strain VL1 has a genome size of 7,052,747 bp with 6 plasmids, whereas strains SE2.11T and SE3.6 have genome sizes of 6,945,341 bp and 6,930,824 bp respectively, with no plasmids. VL1's genome consists of a chromosome and 6 plasmids, while SE2.11T and SE3.6 genomes consist of a single chromosome.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular, and what are their common names?",
+    "ground_truth": "The banned heavy metal compounds listed as fungicides are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the specific categories of pesticides banned in Vietnam according to the 2024 circular, and can you name one example from each category?",
+    "ground_truth": "The banned pesticide categories are Insecticides and wood preservatives (e.g., Aldrin), Fungicides (e.g., Arsenic (As)), Rodenticides (e.g., Talium compound), and Herbicides (e.g., 2,4,5-T).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as banned fungicides in the document, and what are their common names?",
+    "ground_truth": "The heavy metals listed as banned fungicides are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned herbicides and rodenticides mentioned in the document?",
+    "ground_truth": "The banned herbicide mentioned is 2,4,5-T, and the banned rodenticide is Talium compound.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

@@ -1,0 +1,296 @@
+BLEU,ROUGE-1,BERT P,BERT R,BERT F1,Perplexity,Diversity,Racial Bias,TT,user_input,response,reference
+8.879379522366342,0.30357142857142855,0.6635664701461792,0.8530502319335938,0.7464714646339417,18.0123348236084,0.9894736842105263,0.4991456866264343,1,Which heavy metal compounds are listed as banned substances in the fungicides category according to the 2024 circular?,"According to the 2024 circular issued by the Ministry of Agriculture and Rural Development in Vietnam, the following heavy metal compounds are listed as banned substances in the fungicides category:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These substances are prohibited due to their toxic effects on human health and the environment. The use of heavy metals in agriculture can lead to soil and water contamination, posing risks to food safety and ecosystem health. It is essential for farmers to adhere to these regulations to promote sustainable agricultural practices and protect public health.","The banned heavy metal compounds in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se)."
+1.5429937782494663,0.2518518518518519,0.6235958337783813,0.8343629240989685,0.7137448191642761,13.676920890808105,0.991304347826087,0.5067235231399536,2,What are the common names of the banned organochlorine insecticides listed in the document?,"According to the 2024 circular issued by the Ministry of Agriculture and Rural Development in Vietnam, the following organochlorine insecticides are listed as banned substances:
+
+1. **Aldrin**
+2. **BHC (Lindane)**
+3. **Chlordane**
+4. **Chlordimeform**
+5. **DDT (Dichloro-Diphenyl-Trichloroethane)**
+6. **Dieldrin**
+7. **Endosulfan**
+8. **Endrin**
+9. **Heptachlor**
+10. **Isobenzan**
+11. **Isodrin**
+12. **Lead (Pb)**
+13. **Methamidophos**
+14. **Methyl Parathion**
+15. **Monocrotophos**
+16. **Parathion Ethyl**
+17. **Sodium Pentachlorophenate monohydrate**
+18. **Pentachlorophenol**
+19. **Phosphamidon**
+20. **Polychlorocamphene**
+21. **Trichlorfon (Chlorophos)**
+
+These substances are banned due to their persistent nature in the environment and potential harmful effects on human health and ecosystems. It is crucial for farmers to comply with these regulations to ensure sustainable agricultural practices and protect public health.","The banned organochlorine insecticides include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene."
+5.208472146410212,0.15384615384615385,0.6145693063735962,0.8443344831466675,0.7113588452339172,16.57421875,0.9444444444444444,0.5010608434677124,3,Which heavy metals are listed as fungicides in the document?,"According to the 2024 circular issued by the Ministry of Agriculture and Rural Development in Vietnam, the following heavy metals are listed as fungicides:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These heavy metals are included in the fungicides category due to their toxic properties and potential to cause significant harm to human health and the environment. The use of such substances in agriculture is strictly regulated and prohibited to ensure food safety and promote sustainable farming practices. It is crucial for farmers to be aware of these regulations and avoid using any products containing these heavy metals to protect both their health and the ecosystem.",Arsenic (As) and Mercury (Hg) are listed as fungicides.
+1.0695951901953333,0.19148936170212766,0.6118767261505127,0.7984659671783447,0.6928284168243408,23.119220733642578,0.9764705882352941,0.4812999367713928,4,What is the common name of the rodenticide listed in the document?,"According to the 2024 circular issued by the Ministry of Agriculture and Rural Development in Vietnam, the following common names of rodenticides are listed as banned substances:
+
+1. **Talium compound**
+
+This substance is prohibited due to its high toxicity and potential risks to human health and the environment. It is crucial for farmers and agricultural workers to avoid using any products containing this rodenticide to ensure safe and sustainable farming practices. Compliance with these regulations is essential for protecting public health and maintaining ecosystem integrity.",The common name of the rodenticide is Talium compound.
+7.4753784910264836,0.3130434782608696,0.660512387752533,0.8251528739929199,0.7337099313735962,17.251140594482422,0.9894736842105263,0.49992606043815613,5,Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese agricultural circular?,"According to the 2024 circular issued by the Ministry of Agriculture and Rural Development in Vietnam, the following heavy metal compounds are listed as banned fungicides:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These heavy metals are prohibited due to their toxic properties, which pose significant risks to human health and the environment. The use of such substances in agriculture can lead to soil and water contamination, adversely affecting food safety and ecosystem health. It is essential for farmers to comply with these regulations to promote sustainable agricultural practices and protect public health.","The banned fungicides listed in the document include heavy metal compounds such as Arsenic (As), Mercury (Hg), and Selenium (Se)."
+0.798404077191685,0.17989417989417988,0.6120200753211975,0.7202282547950745,0.6617296934127808,15.567161560058594,0.8557312252964426,0.506654679775238,6,"What are the three main groups of weeds found in rice fields, and what specific management practices are recommended to control them?","In rice fields, weeds can be categorized into three main groups based on their growth habits and characteristics: **grassy weeds, broadleaf weeds, and sedges**. Each group presents unique challenges and requires specific management practices for effective control. Here’s a detailed overview of these groups and the recommended management practices:
+
+### 1. Grassy Weeds
+**Common Examples:** 
+- Echinochloa crus-galli (barnyard grass)
+- Leptochloa spp. (e.g., slender sprangletop)
+
+**Management Practices:**
+- **Cultural Practices:** 
+  - **Water Management:** Maintaining a flooded condition can suppress the germination of many grassy weeds. Proper water depth (5-7 cm) should be maintained to prevent weed emergence.
+  - **Crop Rotation:** Rotating rice with other crops can disrupt the life cycle of grassy weeds.
+  - **Dense Planting:** Increasing the planting density of rice can enhance competition against grassy weeds.
+
+- **Mechanical Control:**
+  - **Tillage:** Incorporating weeds into the soil through tillage before planting can reduce their seed bank.
+  - **Hand Weeding:** Manual removal of grassy weeds can be effective, especially in small-scale operations.
+
+- **Chemical Control:**
+  - **Herbicides:** Use pre-emergence herbicides (e.g., molinate, propanil) to target grassy weeds before they emerge. Early post-emergence herbicides can also be applied if grassy weeds are detected after planting.
+
+### 2. Broadleaf Weeds
+**Common Examples:**
+- Eclipta alba (false daisy)
+- Amaranthus spp. (pigweed)
+
+**Management Practices:**
+- **Cultural Practices:**
+  - **Crop Competition:** Selecting rice varieties that grow rapidly and establish a dense canopy can outcompete broadleaf weeds.
+  - **Proper Fertilization:** Balanced nutrient management can promote healthy rice growth, making it more competitive against broadleaf weeds.
+
+- **Mechanical Control:**
+  - **Weeding Techniques:** Hand weeding or mechanical weeding can be effective, especially in the early stages of rice growth.
+
+- **Chemical Control:**
+  - **Herbicides:** Apply selective post-emergence herbicides that target broadleaf weeds without harming rice. Timing is crucial; applications should be made when broadleaf weeds are small and actively growing.
+
+### 3. Sedges
+**Common Examples:**
+- Cyperus spp. (e.g., yellow nutsedge)
+- Fimbristylis spp.
+
+**Management Practices:**
+- **Cultural Practices:**
+  - **Water Management:** Flooding can be particularly effective against sedges, as many are sensitive to prolonged inundation.
+  - **Soil Preparation:** Proper land preparation can help reduce sedge populations by disturbing their growth.
+
+- **Mechanical Control:**
+  - **Tillage:** Regular tillage can help manage sedge populations by disrupting their growth cycle.
+
+- **Chemical Control:**
+  - **Herbicides:** Use specific herbicides that are effective against sedges, such as pre-emergence options that can prevent their establishment.
+
+### Integrated Weed Management (IWM)
+To effectively manage these weed groups, an **Integrated Weed Management (IWM)** approach is recommended. This involves combining cultural, mechanical, and chemical methods tailored to the specific weed species present in the rice field. The goal is to reduce reliance on any single method, thereby minimizing the risk of herbicide resistance and promoting sustainable rice production.
+
+### Conclusion
+Effective weed management in rice fields requires a comprehensive understanding of the types of weeds present and the implementation of a variety of control strategies. By employing cultural, mechanical, and chemical practices in an integrated manner, farmers can significantly reduce weed pressure, enhance rice yields, and promote sustainable agricultural practices.","The three main groups of weeds in rice fields are broadleaf weeds, sedges, and grasses. Recommended management practices include using certified rice seeds, thorough land preparation and leveling, row seeding or machine transplanting, early water application to suppress weeds, hand weeding during 15-18 days after sowing, cutting remaining weed panicles to prevent seed dispersal, preventing weed seed formation on field edges and irrigation channels, and using pre-emergence herbicides like Pretilachor or Butachlor and post-emergence herbicides like Pyrazosulfuron Ethyl or Cyhalofop-butyl."
+1.9686278028868016,0.1625441696113074,0.6018962860107422,0.6978209018707275,0.646318793296814,16.906972885131836,0.936,0.49883222579956055,7,"What are the key biological and environmental conditions that favor the development of golden apple snails (Pomacea canaliculated) in rice fields, and what non-chemical control methods are suggested?","The golden apple snail (*Pomacea canaliculata*) is a significant pest in rice fields, particularly in tropical regions. Understanding the biological and environmental conditions that favor their development is crucial for effective management. Here are the key factors and recommended non-chemical control methods:
+
+### Key Biological and Environmental Conditions Favoring Golden Apple Snails
+
+1. **Water Availability:**
+   - Golden apple snails thrive in flooded conditions, which provide them with the necessary habitat for feeding and reproduction. They can spread through irrigation canals and natural water pathways.
+
+2. **Temperature:**
+   - These snails prefer warm temperatures, typically between 20°C and 30°C (68°F to 86°F). Warmer conditions accelerate their growth and reproduction rates.
+
+3. **Food Sources:**
+   - They primarily feed on young rice plants, particularly during the first 30 days after planting when the plants are most vulnerable. The presence of abundant food sources encourages their population growth.
+
+4. **Breeding Conditions:**
+   - Golden apple snails lay their eggs in bright pink masses above the waterline, often on vegetation or structures near the water. High humidity and warm temperatures facilitate successful egg hatching.
+
+5. **Soil Conditions:**
+   - They can burrow into the mud and hibernate for extended periods (up to six months) when water is absent, allowing them to survive unfavorable conditions and re-emerge when water is reintroduced.
+
+### Non-Chemical Control Methods
+
+1. **Cultural Control:**
+   - **Water Management:** Keep fields drained as much as possible during the vulnerable stages of rice (first 30 days). Maintaining water levels below 2 cm can hinder snail movement and reduce their feeding.
+   - **Transplanting Older Seedlings:** Use 25-30 day-old seedlings for transplanting, as they are less susceptible to snail damage compared to younger plants.
+
+2. **Community-Based Management:**
+   - **Mass Collection Campaigns:** Organize community efforts to collect snails and their egg masses during land preparation and planting. This collective action can significantly reduce snail populations.
+
+3. **Biological Control:**
+   - **Encourage Natural Predators:** Introduce or encourage the presence of natural predators such as ducks, which can feed on young snails, and red ants, which consume snail eggs. Wild birds can also help control snail populations.
+
+4. **Mechanical Control:**
+   - **Handpicking:** Regularly handpick snails and crush their egg masses, especially during the early morning or late afternoon when they are most active.
+   - **Use of Attractants:** Place attractants like papaya or cassava leaves in the field to facilitate easier handpicking of snails.
+
+5. **Physical Barriers:**
+   - **Construct Barriers:** Install barriers at water inlets and outlets to prevent snails from entering the fields. This can include mesh screens or woven bamboo barriers.
+
+6. **Toxic Plant Utilization:**
+   - **Plant Toxic Species:** Introduce strips of toxic plants (e.g., tobacco leaves, heartleaf false pickerelweed) in the field to deter snails.
+
+### Conclusion
+
+Effective management of golden apple snails in rice fields requires an understanding of their biological and environmental preferences. By implementing a combination of cultural, community-based, biological, mechanical, and physical control methods, farmers can significantly reduce snail populations and minimize their impact on rice crops. These non-chemical strategies promote sustainable agricultural practices while protecting the ecosystem.","Golden apple snails thrive in environments with host plants like duckweed or water hyacinth, excess nitrogen fertilization, and continuous waterlogging. Non-chemical control methods include releasing ducks into fields, manual collection of snails and eggs during land preparation, creating trenches with attractant plants like papaya or cassava leaves, placing stakes along field edges to collect egg masses, and installing 5mm mesh nets in irrigation channels to block snail entry."
+0.6358189024128776,0.09250398724082935,0.6010481119155884,0.6773720979690552,0.6369317770004272,15.509657859802246,0.9030612244897959,0.49231255054473877,8,What are the specific environmental conditions that favor the development of the rice stem borer (Sâu phao) and what management practices are recommended to control it?,"The rice stem borer, particularly *Tryporyza incertulas* and *Chilo suppressalis*, is a significant pest in rice cultivation, especially in Southeast Asia. Understanding the environmental conditions that favor their development is crucial for effective management. Here are the specific conditions and recommended management practices:
+
+### Environmental Conditions Favoring Rice Stem Borers
+
+1. **Temperature:**
+   - Rice stem borers thrive in warm temperatures, typically between 25°C and 30°C (77°F to 86°F). Higher temperatures can accelerate their life cycle, leading to increased populations.
+
+2. **Humidity:**
+   - High humidity levels, especially during the wet season, create favorable conditions for the development of rice stem borers. Humid environments support the growth of rice plants, which serve as hosts for these pests.
+
+3. **Water Management:**
+   - Shallow water levels (10-15 cm) in rice fields can favor the emergence and survival of stem borers. These conditions allow for easier access to the rice plants for feeding and reproduction.
+
+4. **Crop Growth Stage:**
+   - Stem borers are particularly damaging during the early growth stages of rice, especially when plants are young and tender. They tend to cause more significant damage when rice is at the tillering stage.
+
+5. **Plant Variety:**
+   - Certain rice varieties are more susceptible to stem borer attacks. Traditional varieties may be more vulnerable compared to improved or resistant varieties.
+
+6. **Field Management Practices:**
+   - Poor field management, such as inadequate crop rotation and high nitrogen fertilizer application, can lead to increased susceptibility to stem borers. Dense planting can also create a microclimate that favors pest development.
+
+### Recommended Management Practices
+
+1. **Cultural Control:**
+   - **Crop Rotation:** Rotate rice with non-host crops to disrupt the life cycle of stem borers. This practice can help reduce their population in subsequent rice crops.
+   - **Water Management:** Maintain proper water levels in the field. Draining fields during the early growth stages can reduce the incidence of stem borers.
+   - **Planting Dates:** Adjust planting dates to avoid peak periods of stem borer activity. Early planting can help rice plants establish before the peak pest population.
+
+2. **Resistant Varieties:**
+   - Use rice varieties that are resistant to stem borers. Improved varieties such as IR-20 and IR-22 have shown reduced susceptibility compared to traditional varieties.
+
+3. **Mechanical Control:**
+   - **Handpicking:** Regularly inspect fields and handpick visible stem borers and their larvae. This method is labor-intensive but can be effective in small-scale operations.
+   - **Tillage:** Proper tillage before planting can help reduce the pest population by disrupting their habitat and lifecycle.
+
+4. **Biological Control:**
+   - **Natural Enemies:** Encourage the presence of natural predators such as parasitic wasps and birds that feed on stem borers. This can be achieved by maintaining biodiversity in and around rice fields.
+
+5. **Monitoring and Forecasting:**
+   - Implement regular monitoring of pest populations using light traps or pheromone traps to predict outbreaks. This information can help in timely interventions.
+
+6. **Integrated Pest Management (IPM):**
+   - Combine cultural, mechanical, biological, and chemical methods in an integrated approach. Use insecticides judiciously and only when necessary, targeting specific life stages of the stem borer.
+
+7. **Chemical Control:**
+   - If necessary, apply recommended insecticides at the right growth stage of the rice plant. Timing is crucial; applications should be made when the pest population is low and before significant damage occurs.
+
+### Conclusion
+
+Effective management of rice stem borers requires a comprehensive understanding of their environmental preferences and the implementation of integrated management practices. By combining cultural, biological, mechanical, and chemical methods, farmers can significantly reduce the impact of stem borers on rice crops, leading to sustainable and productive rice farming.","The rice stem borer thrives in continuously submerged fields and when young seedlings are transplanted. Recommended management practices include draining the field upon detection, using pesticides sensitive to the borer such as those containing Abamectin, Emamectin benzoate, or Azadirachtin, and avoiding synthetic pyrethroids to prevent outbreaks of planthoppers."
+1.3288539284648906,0.1497797356828194,0.6532434225082397,0.724368691444397,0.6869699954986572,16.80051040649414,0.8813008130081301,0.5025261640548706,9,Describe the lifecycle behavior of the rice gall midge (Muỗi hành) and the specific agricultural practices suggested to mitigate its impact on rice crops.,"The rice gall midge (*Orseolia oryzae*) is a significant pest affecting rice crops, particularly during the vegetative growth stages. Understanding its lifecycle and behavior is crucial for implementing effective management practices. Here’s a detailed overview of the lifecycle behavior of the rice gall midge and recommended agricultural practices to mitigate its impact:
+
+### Lifecycle Behavior of the Rice Gall Midge
+
+1. **Egg Stage:**
+   - The adult female gall midge lays eggs near the base of the rice plant, typically on the leaf sheath or in the vicinity of the water surface. The eggs are small and white, and they hatch within a few days under favorable conditions.
+
+2. **Larval Stage:**
+   - Upon hatching, the larvae (maggots) enter the rice plant through the leaf sheath and move to the growing point (the apical meristem) of the plant. This is where they cause the most damage.
+   - The larvae feed on the plant tissue, leading to the formation of galls. These galls are swollen, tubular structures that replace normal tillers, preventing the plant from producing panicles (flower heads).
+   - The feeding activity of the larvae stunts the growth of the rice plant, leading to reduced vigor and yield.
+
+3. **Pupal Stage:**
+   - After feeding, the larvae pupate within the galls. The pupal stage lasts for about a week, after which adult midges emerge.
+
+4. **Adult Stage:**
+   - The adult gall midge is a small, delicate fly that is often difficult to see. They are typically active during the early morning and late afternoon.
+   - The adults are capable of flying short distances and can quickly infest new areas, especially when conditions are favorable.
+
+### Recommended Agricultural Practices to Mitigate Impact
+
+1. **Cultural Control:**
+   - **Water Management:** Maintain proper water levels in the rice fields. Draining fields during the early growth stages (especially when the plants are young) can help reduce gall midge populations, as they thrive in flooded conditions.
+   - **Crop Rotation:** Rotate rice with non-host crops to disrupt the lifecycle of the gall midge. This practice can help reduce their population in subsequent rice crops.
+   - **Field Sanitation:** Remove and destroy any infested plant debris after harvest to reduce the overwintering population of the pest.
+
+2. **Planting Practices:**
+   - **Use of Resistant Varieties:** Plant rice varieties that are resistant to gall midge infestations. Research has identified certain varieties that show reduced susceptibility to this pest.
+   - **Adjust Planting Dates:** Timing the planting of rice to avoid peak periods of gall midge activity can help minimize infestations.
+
+3. **Monitoring and Early Detection:**
+   - Regularly monitor fields for signs of gall midge infestation, such as the presence of galls on young tillers. Early detection allows for timely intervention.
+   - Use pheromone traps to monitor adult populations and predict potential outbreaks.
+
+4. **Biological Control:**
+   - Encourage natural predators and parasitoids that can help control gall midge populations. This includes maintaining biodiversity in and around rice fields to support beneficial insects.
+
+5. **Mechanical Control:**
+   - Handpicking visible galls and larvae can be effective in small-scale operations. This method is labor-intensive but can help reduce pest populations.
+
+6. **Integrated Pest Management (IPM):**
+   - Implement an integrated approach that combines cultural, biological, and mechanical methods with judicious use of chemical controls when necessary. Use insecticides that are effective against gall midges, but apply them only when pest populations reach economically damaging levels.
+
+### Conclusion
+
+The rice gall midge poses a significant threat to rice production, particularly during the vegetative stages of growth. By understanding its lifecycle and implementing a combination of cultural, biological, and mechanical control methods, farmers can effectively mitigate its impact on rice crops. Adopting an integrated pest management approach will promote sustainable agricultural practices while ensuring healthy rice production.","The rice gall midge is active year-round, primarily from the seedling to late tillering stages. The larvae damage the growing tips, causing the rice leaves to elongate abnormally like onion leaves, which then dry out and fail to produce panicles. Mitigation practices include monitoring with light traps, cleaning weeds and volunteer rice, avoiding aromatic rice varieties, applying integrated pest management strategies like '3 Giam 3 Tang', and refraining from chemical pesticides and growth stimulants during early growth stages (0-40 NSS)."
+3.248507050402409,0.2361904761904762,0.637498140335083,0.786618709564209,0.7042511105537415,11.290074348449707,0.8675213675213675,0.4988495409488678,10,"What are the specific symptoms of Rice Grassy Stunt Virus (RGSV) infection in rice plants, and how does it differ from Rice Ragged Stunt Virus (RRSV) infection?","The Rice Grassy Stunt Virus (RGSV) and Rice Ragged Stunt Virus (RRSV) are two significant viral pathogens affecting rice plants, each presenting distinct symptoms and characteristics. Here’s a detailed comparison of the symptoms associated with RGSV and RRSV infections:
+
+### Symptoms of Rice Grassy Stunt Virus (RGSV) Infection
+
+1. **Plant Appearance:**
+   - Infected rice plants exhibit stunted growth, appearing shorter than healthy plants.
+   - The plants often develop a bushy appearance due to the proliferation of tillers.
+
+2. **Leaf Symptoms:**
+   - Leaves become narrow, short, and stiff, with a yellowish-green or yellow-orange coloration.
+   - The leaf blades may show a characteristic ""grassy"" appearance, which is where the virus gets its name.
+   - Young leaves may develop numerous reddish-brown spots or streaks, resembling rust.
+
+3. **Overall Plant Health:**
+   - Infected plants may have reduced tillering and produce fewer panicles, leading to lower yields.
+   - The symptoms can lead to a significant reduction in grain quality and quantity.
+
+4. **Timing of Symptoms:**
+   - Symptoms typically appear 19 to 24 days after infection, particularly affecting younger plants.
+
+### Symptoms of Rice Ragged Stunt Virus (RRSV) Infection
+
+1. **Plant Appearance:**
+   - RRSV-infected plants also exhibit stunted growth, but they tend to be more severely affected than those infected with RGSV.
+   - The plants may appear lopsided or distorted due to uneven growth.
+
+2. **Leaf Symptoms:**
+   - Leaves are dark green and may curl or twist, with the edges appearing ragged or frayed.
+   - The tips of the leaves may become deformed, and the leaves can exhibit a ""V"" shape at the edges.
+
+3. **Overall Plant Health:**
+   - RRSV can cause severe yield losses, as infected plants often fail to produce panicles or produce very few, leading to significant economic impact.
+   - The plants may also show signs of wilting and overall poor health.
+
+4. **Timing of Symptoms:**
+   - Symptoms of RRSV can also appear within a similar timeframe as RGSV, but the severity of symptoms is generally greater.
+
+### Key Differences Between RGSV and RRSV
+
+- **Leaf Appearance:** RGSV typically causes yellowing and narrow leaves, while RRSV leads to dark green, twisted, and ragged leaves.
+- **Growth Impact:** Both viruses cause stunting, but RRSV tends to result in more severe growth distortion and reduced panicle formation compared to RGSV.
+- **Yield Impact:** RRSV generally leads to more significant yield losses than RGSV due to its more severe symptoms and effects on plant health.
+
+### Conclusion
+
+Both RGSV and RRSV are detrimental to rice production, but they present different symptoms that can help in their identification. Understanding these differences is crucial for implementing effective management strategies to mitigate their impact on rice crops. Farmers should monitor their fields for these symptoms and take appropriate action, including the use of resistant varieties and integrated pest management practices, to control the spread of these viruses.","Rice Grassy Stunt Virus (RGSV) causes symptoms such as stunted growth, excessive tillering, short and narrow leaves that are yellow-green or orange-yellow, and young leaves with rust-colored or reddish-yellow spots. In contrast, Rice Ragged Stunt Virus (RRSV) leads to stunted plants with dark green leaves, ragged and wavy leaf edges, bumps along leaf veins, deformed and curled leaf tips, and panicles that fail to emerge properly, resulting in empty grains."

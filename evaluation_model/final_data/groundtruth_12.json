@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which banned pesticides in Vietnam contain heavy metals as their active ingredients?",
+    "ground_truth": "The banned pesticides containing heavy metals are Cadmium compound (Cd), Lead (Pb), Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What are the categories of banned plant protection substances listed in the document, and can you provide an example from each category?",
+    "ground_truth": "The categories are: 1) Insecticides and wood preservatives (e.g., Aldrin), 2) Fungicides (e.g., Arsenic (As)), 3) Rodenticides (e.g., Talium compound), and 4) Herbicides (e.g., 2,4,5-T).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "Which banned pesticides in Vietnam contain heavy metals as their active ingredients?",
+    "ground_truth": "The banned pesticides containing heavy metals are Cadmium compound (Cd), Lead (Pb), Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "What categories of banned plant protection substances are listed in the document, and can you provide an example from each category?",
+    "ground_truth": "The categories include insecticides and wood preservatives (e.g., Aldrin), fungicides (e.g., Arsenic (As)), rodenticides (e.g., Talium compond), and herbicides (e.g., 2,4,5-T).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  },
+  {
+    "question": "Which banned pesticides in Vietnam contain heavy metals as their active ingredients?",
+    "ground_truth": "The banned pesticides containing heavy metals are Cadmium compound (Cd), Lead (Pb), Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "XX danh-muc-thuoc-bao-ve-thuc-vat-cam-su-dung-tai-VN.pdf"
+  }
+]

@@ -1,0 +1,50 @@
+BLEU,ROUGE-1,BERT P,BERT R,BERT F1,Perplexity,Diversity,Racial Bias,TT,user_input,response,reference
+8.58898688035115,0.33333333333333337,0.6636896133422852,0.8378714323043823,0.7406778931617737,19.6370849609375,0.9882352941176471,0.48765745759010315,1,Which heavy metal compounds are listed as banned substances in the fungicides category of the 2024 Vietnamese pesticide regulation?,"In the fungicides category of the 2024 Vietnamese pesticide regulation, the following heavy metal compounds are listed as banned substances:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These substances are prohibited due to their toxic effects on human health and the environment. The use of heavy metals in agriculture can lead to soil and water contamination, posing risks to food safety and ecosystem health. It is essential for farmers to adhere to these regulations to promote sustainable agricultural practices and protect public health.","The banned heavy metal compounds in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se)."
+0.923603308271997,0.2601626016260163,0.628635823726654,0.8195254802703857,0.7114995718002319,14.187085151672363,0.9803921568627451,0.5045202970504761,2,What are the common names of the banned organochlorine insecticides listed in the 2024 Vietnamese pesticide regulation?,"In the 2024 Vietnamese pesticide regulation, the following organochlorine insecticides are listed as banned substances:
+
+1. **Aldrin**
+2. **BHC (Benzene Hexachloride)**
+3. **Lindane**
+4. **Cadmium compound**
+5. **Chlordane**
+6. **Chlordimeform**
+7. **DDT (Dichloro-Diphenyl-Trichloroethane)**
+8. **Dieldrin**
+9. **Endosulfan**
+10. **Endrin**
+11. **Heptachlor**
+12. **Isobenzan**
+13. **Isodrin**
+14. **Lead (Pb)**
+
+These substances are prohibited due to their persistence in the environment, potential to bioaccumulate, and harmful effects on human health and non-target organisms. The regulation aims to promote safer agricultural practices and protect both public health and the ecosystem. It is crucial for farmers to comply with these regulations to ensure sustainable farming practices.","The banned organochlorine insecticides include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene."
+6.189530823367273,0.18947368421052632,0.6390123963356018,0.8482534289360046,0.7289140224456787,19.251773834228516,0.9651162790697675,0.48739394545555115,3,Which heavy metals are listed as fungicides in the document?,"In the document regarding the 2024 Vietnamese pesticide regulation, the following heavy metals are listed as fungicides and are prohibited for use:
+
+1. **Arsenic (As)**
+2. **Mercury (Hg)**
+3. **Selenium (Se)**
+
+These heavy metals are banned due to their toxic effects on human health and the environment. Their use in agriculture can lead to soil and water contamination, posing significant risks to food safety and ecosystem health. It is crucial for farmers to comply with these regulations to promote sustainable agricultural practices and protect public health.",Arsenic (As) and Mercury (Hg) are listed as fungicides.
+0.4890048632719019,0.13333333333333333,0.5127662420272827,0.6567625999450684,0.5758997201919556,22.580299377441406,0.89937106918239,0.5049338936805725,4,What is the common name of the herbicide listed in the document?,"The document lists several herbicides used in rice farming. Here are some common names of the herbicides mentioned:
+
+1. **Butachlor** - A selective herbicide effective against annual grasses and some broadleaf weeds, applicable both preemergence and postemergence.
+2. **Propanil** - A contact herbicide that controls annual grass weeds and some broadleaf weeds, requiring good coverage for effectiveness.
+3. **Molinate** - Primarily controls annual grasses and is used in early postemergence applications.
+4. **Thiobencarb** - Effective against most annual grasses, broadleaf weeds, and sedges, particularly in flooded rice conditions.
+5. **Oxadiazon** - Used for weed control in various crops, including rice.
+6. **Pendimethalin** - A preemergence herbicide effective against a wide range of weeds in rice and other crops.
+
+These herbicides are formulated to provide effective weed control under different cultural practices in rice farming, contributing to higher yields and better crop management. Always ensure to follow local regulations and guidelines when using these herbicides to promote sustainable agricultural practices.","The common name of the herbicide listed is 2,4,5-T."
+5.880771852898901,0.2608695652173913,0.6378659009933472,0.8208681344985962,0.7178879380226135,20.030670166015625,0.9586776859504132,0.5061620473861694,5,Which heavy metal compounds are listed as banned fungicides in Vietnam's 2024 circular on prohibited pesticides?,"In Vietnam's 2024 circular on prohibited pesticides, the following heavy metal compounds are listed as banned fungicides:
+
+1. **Arsenic (As)** - Known for its toxicity and potential to contaminate soil and water, posing risks to human health and the environment.
+2. **Mercury (Hg)** - Highly toxic and can accumulate in living organisms, leading to severe ecological and health impacts.
+3. **Selenium (Se)** - While essential in trace amounts for some organisms, excessive levels can be harmful and lead to environmental contamination.
+
+These heavy metals are prohibited due to their detrimental effects on human health and the environment, including risks of bioaccumulation and soil and water pollution. Compliance with these regulations is crucial for promoting sustainable agricultural practices and ensuring food safety.","The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se) as heavy metal compounds."

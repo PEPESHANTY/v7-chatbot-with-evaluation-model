@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What are the three types of male sterile lines mentioned in the definition of hybrid rice parental seed, and what are their genetic characteristics?",
+    "ground_truth": "The three types of male sterile lines are: 1) Cytoplasmic Male Sterility (CMS) - genetically determined by cell cytoplasm, 2) Thermo-sensitive Genetic Male Sterility (TGMS) - nuclear genetic male sterility sensitive to temperature conditions, and 3) Photoperiodic-sensitive Genetic Male Sterility (PGMS) - nuclear genetic male sterility sensitive to day length (photoperiod).",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What is the key difference between three-line and two-line hybrid rice systems in terms of their parental line requirements?",
+    "ground_truth": "The three-line system requires: 1) a cytoplasmic male sterile line (CMS line A), 2) a maintainer line (line B) to preserve the male sterility, and 3) a restorer line (line R). The two-line system only requires: 1) an environmental-sensitive genetic male sterile line (EGMS) and 2) a fertile paternal line (line P), without needing a separate maintainer line.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What are the environmental conditions required during the sensitive stage for the EGMS super-elite seed line to ensure self-pollination and seed setting?",
+    "ground_truth": "The EGMS super-elite seed line requires environmental conditions such as temperature or day length during the sensitive stage to ensure self-pollination and seed setting.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What measures can be taken to adjust the flowering time mismatch between the male and female lines in hybrid rice production?",
+    "ground_truth": "To adjust the flowering time mismatch, measures include using water (draining or maintaining water depth), applying chemicals (KH2PO4 for slow-developing lines or NH4NO3 for fast-developing lines), and using fertilizers (adding potassium for slow lines and nitrogen for fast lines). These measures must be applied before the 4th stage of panicle differentiation.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "What are the maximum allowable percentages of fertile pollen and seed set rates for the EGMS line in the F1 hybrid rice production field, as specified in the isolation bag testing requirements?",
+    "ground_truth": "The maximum allowable percentage of fertile pollen for the EGMS line in the F1 hybrid rice production field is 0.5% of the total number of seeds, and the maximum allowable seed set rate in the isolation bag is 0.3% of the total number of seeds, as specified in Bảng F.2.",
+    "source": "DT_TCVN-lua-lai.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese agricultural circular?",
+    "ground_truth": "The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned insecticides that contain chlorinated hydrocarbons according to the 2024 Vietnamese agricultural circular?",
+    "ground_truth": "The banned insecticides containing chlorinated hydrocarbons listed in the document include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as fungicides in the document?",
+    "ground_truth": "Arsenic (As) and Mercury (Hg) are listed as fungicides.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the herbicide listed in the document?",
+    "ground_truth": "The common name of the herbicide listed is 2,4,5-T.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese agricultural circular?",
+    "ground_truth": "The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se), which are heavy metal compounds.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the three main groups of weeds found in rice fields, and what specific management practices are recommended to control them?",
+    "ground_truth": "The three main groups of weeds in rice fields are broadleaf weeds, sedges, and grasses. Recommended management practices include using certified rice seeds, thorough soil preparation and leveling, row seeding or machine transplanting, early water application to suppress weeds, hand weeding during 15-18 days after sowing, cutting remaining weed panicles to prevent seed dispersal, preventing weed seed formation on field edges and irrigation channels, and using pre-emergence herbicides like Pretilachor or Butachlor and post-emergence herbicides like Pyrazosulfuron Ethyl or Cyhalofop-butyl.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the key developmental stages and environmental conditions that favor the proliferation of golden apple snails (Pomacea canaliculated) in rice fields?",
+    "ground_truth": "Golden apple snails cause damage from sowing to about 30 days after sowing or newly transplanted rice, primarily thriving in environments like ponds, swamps, irrigated fields, and canals. Their eggs are red and hatch after 7-15 days, reaching maturity in 75-90 days. Favorable conditions include the presence of host plants like duckweed or water hyacinth, excessive nitrogen fertilization, and continuously flooded fields.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific environmental conditions that favor the development of the rice stem borer (Sâu phao) and what management practices are recommended to control it?",
+    "ground_truth": "The rice stem borer thrives in continuously submerged fields and when young seedlings are transplanted. Recommended management practices include draining the field upon detection, using pesticides with active ingredients like Abamectin, Emamectin benzoate, and Azadirachtin, and avoiding synthetic pyrethroids to prevent outbreaks of planthoppers.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "Describe the lifecycle and damage symptoms caused by the rice gall midge (Muỗi hành), including the specific chemical changes induced by its larvae.",
+    "ground_truth": "The rice gall midge is active year-round, primarily from the seedling to late tillering stages. The larvae penetrate the growing tip, secreting chemicals in their saliva that cause newly emerging leaves to become blocked and elongate like a spring onion, enclosing the larvae inside. Infested shoots dry out and fail to produce panicles. Adults resemble house mosquitoes, with males being brown and females reddish-brown and longer.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific active ingredients recommended for spraying to prevent rice grain discoloration disease before and after flowering, and what is the recommended timing for application?",
+    "ground_truth": "The recommended active ingredients for spraying to prevent rice grain discoloration disease include Kasugamycin, Ningnanmycin, Oxolinic acid, Propiconazole, and Difenoconazole. The application should be done approximately 7 days before and after flowering.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  }
+]

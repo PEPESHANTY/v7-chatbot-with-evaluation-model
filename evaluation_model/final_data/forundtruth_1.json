@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the total genome size and GC content of the pathogenic Methylobacterium strain VL1 identified in the study?",
+    "ground_truth": "A full-length genome analysis of pathogenic Methylobacterium strain VL1 revealed that it comprises a single chromosome and six plasmids, with a total size of 7.05 Mbp and GC content of 70.5%.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What unique genes were found in the pathogenic Methylobacterium strain VL1 compared to the non-pathogenic M. indicum strain SE2.11T?",
+    "ground_truth": "VL1 possessed additional unique genes, including those related to homoserine lactone biosynthesis.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What detection technique was developed for the rapid and simple detection of pathogenic M. indicum strains, and what was its initial evaluation result?",
+    "ground_truth": "We established a loop-mediated isothermal amplification (LAMP) assay using the unique sequences of VL1 as target sequences for the rapid and simple detection of pathogenic M. indicum strains. Our initial evaluation demonstrated that the LAMP assay successfully distinguished between pathogenic and non-pathogenic strains infecting rice plants in a rapid and sensitive manner.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the banned insecticide with serial number 15 in the Vietnamese pesticide list?",
+    "ground_truth": "Methamidophos",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compound is listed as a banned fungicide in Vietnam with serial number 5?",
+    "ground_truth": "Mercury (Hg)",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the only listed banned rodenticide in the Vietnamese pesticide list and its serial number?",
+    "ground_truth": "TT (Serial Number): 1, HOẠT CHẤT (COMMON NAME): Talium compound",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

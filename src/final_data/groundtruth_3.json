@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which heavy metal compounds are listed as banned substances in the fungicides category according to the 2024 circular?",
+    "ground_truth": "The banned heavy metal compounds in the fungicides category are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the common names of the banned organochlorine insecticides listed in the document?",
+    "ground_truth": "The banned organochlorine insecticides include Aldrin, BHC (Lindane), Chlordane, DDT, Dieldrin, Endosulfan, Endrin, Heptachlor, Isobenzan, Isodrin, and Polychlorocamphene.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as fungicides in the document?",
+    "ground_truth": "Arsenic (As) and Mercury (Hg) are listed as fungicides.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the rodenticide listed in the document?",
+    "ground_truth": "The common name of the rodenticide is Talium compound.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese agricultural circular?",
+    "ground_truth": "The banned fungicides listed in the document include heavy metal compounds such as Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the three main groups of weeds found in rice fields, and what specific management practices are recommended to control them?",
+    "ground_truth": "The three main groups of weeds in rice fields are broadleaf weeds, sedges, and grasses. Recommended management practices include using certified rice seeds, thorough land preparation and leveling, row seeding or machine transplanting, early water application to suppress weeds, hand weeding during 15-18 days after sowing, cutting remaining weed panicles to prevent seed dispersal, preventing weed seed formation on field edges and irrigation channels, and using pre-emergence herbicides like Pretilachor or Butachlor and post-emergence herbicides like Pyrazosulfuron Ethyl or Cyhalofop-butyl.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the key biological and environmental conditions that favor the development of golden apple snails (Pomacea canaliculated) in rice fields, and what non-chemical control methods are suggested?",
+    "ground_truth": "Golden apple snails thrive in environments with host plants like duckweed or water hyacinth, excess nitrogen fertilization, and continuous waterlogging. Non-chemical control methods include releasing ducks into fields, manual collection of snails and eggs during land preparation, creating trenches with attractant plants like papaya or cassava leaves, placing stakes along field edges to collect egg masses, and installing 5mm mesh nets in irrigation channels to block snail entry.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific environmental conditions that favor the development of the rice stem borer (Sâu phao) and what management practices are recommended to control it?",
+    "ground_truth": "The rice stem borer thrives in continuously submerged fields and when young seedlings are transplanted. Recommended management practices include draining the field upon detection, using pesticides sensitive to the borer such as those containing Abamectin, Emamectin benzoate, or Azadirachtin, and avoiding synthetic pyrethroids to prevent outbreaks of planthoppers.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "Describe the lifecycle behavior of the rice gall midge (Muỗi hành) and the specific agricultural practices suggested to mitigate its impact on rice crops.",
+    "ground_truth": "The rice gall midge is active year-round, primarily from the seedling to late tillering stages. The larvae damage the growing tips, causing the rice leaves to elongate abnormally like onion leaves, which then dry out and fail to produce panicles. Mitigation practices include monitoring with light traps, cleaning weeds and volunteer rice, avoiding aromatic rice varieties, applying integrated pest management strategies like '3 Giam 3 Tang', and refraining from chemical pesticides and growth stimulants during early growth stages (0-40 NSS).",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  },
+  {
+    "question": "What are the specific symptoms of Rice Grassy Stunt Virus (RGSV) infection in rice plants, and how does it differ from Rice Ragged Stunt Virus (RRSV) infection?",
+    "ground_truth": "Rice Grassy Stunt Virus (RGSV) causes symptoms such as stunted growth, excessive tillering, short and narrow leaves that are yellow-green or orange-yellow, and young leaves with rust-colored or reddish-yellow spots. In contrast, Rice Ragged Stunt Virus (RRSV) leads to stunted plants with dark green leaves, ragged and wavy leaf edges, bumps along leaf veins, deformed and curled leaf tips, and panicles that fail to emerge properly, resulting in empty grains.",
+    "source": "So_tay_dich_hai_tren_cay_lua.pdf"
+  }
+]

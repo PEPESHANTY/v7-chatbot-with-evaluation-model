@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the total size of the genome of the pathogenic Methylobacterium strain VL1?",
+    "ground_truth": "A full-length genome analysis of pathogenic Methylobacterium strain VL1 revealed that it comprises a single chromosome and six plasmids, with a total size of 7.05 Mbp and GC content of 70.5%.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What is the key difference between the genomic features of the pathogenic strain VL1 and the non-pathogenic M. indicum strain SE2.11T?",
+    "ground_truth": "The genomic features of VL1 were similar to those of the non-pathogenic M. indicum strain SE2.11T; however, VL1 possessed additional unique genes, including those related to homoserine lactone biosynthesis.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the fresh weights of the control plants and the plants inoculated with 105 CFU mL–1 and 107 CFU mL–1, respectively?",
+    "ground_truth": "The fresh weight of control plants and 105 CFU mL–1-and 107 CFU mL–1-inoculated plants were 0.14±0.017 (g), 0.071±0.01 (g), and 0.065±0.01 (g), respectively.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What were the ANI values obtained from comparisons of VL1 versus strains SE2.11T and SE3.6?",
+    "ground_truth": "The highest ANI values, obtained from comparisons of VL1 versus strains SE2.11T (98.19%) and SE3.6 (98.18%), were higher than the 95% ANI threshold established for prokaryotic species delineation, suggesting that these strains belonged to the same species.",
+    "source": "Leaf Bleaching in Rice-A New Disease in Vietnam.pdf"
+  },
+  {
+    "question": "What is the total number of insecticides and wood preservatives listed as banned for use in Vietnam?",
+    "ground_truth": "The document lists 23 insecticides and wood preservatives that are banned for use in Vietnam.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the two most common chemical classes of banned pesticides in the document?",
+    "ground_truth": "The document groups the banned substances into four categories: insecticides and wood preservatives, fungicides, rodenticides, and herbicides.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]

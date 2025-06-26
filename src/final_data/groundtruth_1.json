@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which banned fungicides listed in the document contain heavy metals?",
+    "ground_truth": "The banned fungicides containing heavy metals are Arsenic (As), Mercury (Hg), and Selenium (Se).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What are the categories of banned pesticides listed in the document, and can you provide an example from each category?",
+    "ground_truth": "The categories of banned pesticides listed are Insecticides and wood preservatives (e.g., Aldrin), Fungicides (e.g., Arsenic (As)), Rodenticides (e.g., Talium compound), and Herbicides (e.g., 2,4,5-T).",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metals are listed as fungicides in the document?",
+    "ground_truth": "Arsenic (As) and Mercury (Hg) are listed as fungicides in the document.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "What is the common name of the rodenticide listed in the document?",
+    "ground_truth": "The common name of the rodenticide listed is Talium compound.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  },
+  {
+    "question": "Which heavy metal compounds are listed as banned fungicides in the 2024 Vietnamese Ministry of Agriculture circular?",
+    "ground_truth": "The banned fungicides listed in the document include Arsenic (As), Mercury (Hg), and Selenium (Se), which are heavy metal compounds.",
+    "source": "List of Pesticides Banned for Use in Vietnam.pdf"
+  }
+]
