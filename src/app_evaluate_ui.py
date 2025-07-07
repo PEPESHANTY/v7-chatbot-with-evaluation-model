@@ -74,7 +74,9 @@ def render_evaluation_ui():
     st.subheader("2. Select Evaluation Method(s)")
     eval_col1, eval_col2 = st.columns(2)
     run_ragas = eval_col1.button("🚀 Run RAGAS Evaluation")
-    run_rag_eval = eval_col2.button("📐❌(Do not use in prod) Run RAG Evaluator Evaluation")
+    
+    # commenting for production
+    # run_rag_eval = eval_col2.button("📐❌(Do not use in prod) Run RAG Evaluator Evaluation")
 
     # ---------- RAGAS Evaluation ---------- #
     if run_ragas:
@@ -105,79 +107,79 @@ def render_evaluation_ui():
         col2.metric("Context Precision", scores["context_precision"])
         col2.metric("Context Recall", scores["context_recall"])
 
-    # ---------- RAG Evaluator ---------- #
-    if run_rag_eval:
-        if "qa_data" not in st.session_state:
-            st.error("❌ Groundtruth must be generated first.")
-        else:
-            with st.spinner("Running RAG Evaluator..."):
-                df_eval, csv_blob_eval, err = run_rag_evaluator_from_data(st.session_state.qa_data)
+    # ---------- RAG Evaluator ---------- # uncomment if using the other button
+    # if run_rag_eval:
+    #     if "qa_data" not in st.session_state:
+    #         st.error("❌ Groundtruth must be generated first.")
+    #     else:
+    #         with st.spinner("Running RAG Evaluator..."):
+    #             df_eval, csv_blob_eval, err = run_rag_evaluator_from_data(st.session_state.qa_data)
 
-            if err:
-                st.error(f"❌ {err}")
-            elif df_eval is not None:
-                st.success("✅ RAG Evaluator Completed")
-                st.session_state.show_rag_eval_explainer = True
-                st.download_button(
-                    "⬇️ Download Evaluator Metrics CSV",
-                    data=csv_blob_eval,
-                    file_name="rag_evaluator_scores.csv",
-                    mime="text/csv"
-                )
+    #         if err:
+    #             st.error(f"❌ {err}")
+    #         elif df_eval is not None:
+    #             st.success("✅ RAG Evaluator Completed")
+    #             st.session_state.show_rag_eval_explainer = True
+    #             st.download_button(
+    #                 "⬇️ Download Evaluator Metrics CSV",
+    #                 data=csv_blob_eval,
+    #                 file_name="rag_evaluator_scores.csv",
+    #                 mime="text/csv"
+    #             )
 
-    if st.session_state.get("show_rag_eval_explainer"):
-        st.markdown("""
-        ### 📊 RAG Evaluator Metrics (Explained)
+    # if st.session_state.get("show_rag_eval_explainer"):
+    #     st.markdown("""
+    #     ### 📊 RAG Evaluator Metrics (Explained)
 
-        ---
+    #     ---
 
-        **✳️ BLEU (0–100)**
-        *Measures n-gram overlap between output and reference.*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0–20: Low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 20–40: Medium-low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 40–60: Medium
-        &nbsp;&nbsp;&nbsp;&nbsp;• 60–80: High
-        &nbsp;&nbsp;&nbsp;&nbsp;• 80–100: Very high
+    #     **✳️ BLEU (0–100)**
+    #     *Measures n-gram overlap between output and reference.*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0–20: Low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 20–40: Medium-low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 40–60: Medium
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 60–80: High
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 80–100: Very high
 
-        **✳️ ROUGE-1 (0–1)**
-        *Measures unigram recall between output and reference.*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Poor
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Fair
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: Good
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: Very good
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Excellent
+    #     **✳️ ROUGE-1 (0–1)**
+    #     *Measures unigram recall between output and reference.*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Poor
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Fair
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: Good
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: Very good
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Excellent
 
-        **✳️ BERT Score (0–1)**
-        *Evaluates semantic similarity using embeddings.*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.5: Low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.5–0.7: Moderate
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.7–0.8: Good
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–0.9: High
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.9–1.0: Very high
+    #     **✳️ BERT Score (0–1)**
+    #     *Evaluates semantic similarity using embeddings.*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.5: Low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.5–0.7: Moderate
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.7–0.8: Good
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–0.9: High
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.9–1.0: Very high
 
-        **✳️ Perplexity (1–∞)**
-        *Indicates language model confidence (lower is better).*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 1–10: Excellent
-        &nbsp;&nbsp;&nbsp;&nbsp;• 10–50: Good
-        &nbsp;&nbsp;&nbsp;&nbsp;• 50–100: Moderate
-        &nbsp;&nbsp;&nbsp;&nbsp;• 100+: High / possibly incoherent
+    #     **✳️ Perplexity (1–∞)**
+    #     *Indicates language model confidence (lower is better).*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 1–10: Excellent
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 10–50: Good
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 50–100: Moderate
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 100+: High / possibly incoherent
 
-        **✳️ Diversity (0–1)**
-        *Measures bigram uniqueness in the response.*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Very low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: Moderate
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: High
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Very high
+    #     **✳️ Diversity (0–1)**
+    #     *Measures bigram uniqueness in the response.*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Very low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: Moderate
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: High
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Very high
 
-        **✳️ Racial Bias (0–1)**
-        *Estimates presence of biased or harmful language.*
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Low
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Moderate
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: High
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: Very high
-        &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Extreme
-        """)
+    #     **✳️ Racial Bias (0–1)**
+    #     *Estimates presence of biased or harmful language.*
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.0–0.2: Low
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.2–0.4: Moderate
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.4–0.6: High
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.6–0.8: Very high
+    #     &nbsp;&nbsp;&nbsp;&nbsp;• 0.8–1.0: Extreme
+    #     """)
 
 
 
