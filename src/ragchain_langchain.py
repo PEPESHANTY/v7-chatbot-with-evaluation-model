@@ -61,7 +61,7 @@ memory = ConversationBufferMemory(
 # ✅ Custom Retriever as valid BaseRetriever
 class QdrantRetriever(BaseRetriever):
     k: int = 5  # ✅ Declare as Pydantic field
-    threshold: float = 0.35
+    threshold: float = 0.38
 
     def _get_relevant_documents(self, query: str, **kwargs) -> list[Document]:
         chunks = retrieve_chunks_crosslingual(query, top_k=self.k)
